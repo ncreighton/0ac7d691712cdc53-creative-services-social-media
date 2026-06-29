@@ -1,0 +1,2 @@
+# 0ac7d691712cdc53-creative-services-social-media
+creative services professionals waste hours on wrestling with incompatible WordPress plugins that fight each other. This fixes that.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Creative Services Social Media Content Distribution — fully configured an
